@@ -1,0 +1,1 @@
+"#sem napisem nejaky text" 
