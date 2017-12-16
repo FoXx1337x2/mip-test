@@ -29,7 +29,14 @@ int cmp(char find[50], char source[50]){
 		return 0;
 
 }
+/// dsadasdsadsa assa sa as asd asd ad ad dweqe sadqwe sa
+/// dsadasdsadsa assa sa as asd asd ad ad dweqe sadqwe sa
+/// dsadasdsadsa assa sa as asd asd ad ad dweqe sadqwe sa
 
+/// dsadasdsadsa assa sa as asd asd ad ad dweqe sadqwe sa
+/// dsadasdsadsa assa sa as asd asd ad ad dweqe sadqwe sa
+/// dsadasdsadsa assa sa as asd asd ad ad dweqe sadqwe sa
+/// dsadasdsadsa assa sa as asd asd ad ad dweqe sadqwe sa
 
 void nacitaj(FILE **fr, int *list_amount, BAZAR **head, BAZAR **current,BAZAR **tail,int *n_fun_done){
 	char h,row[50],stav[200];
